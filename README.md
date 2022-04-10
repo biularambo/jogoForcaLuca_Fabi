@@ -33,4 +33,4 @@ Por enquanto não há erros...
 
 
 ### disponibilizado em
-[GITHubPage](https://biularambo.github.io/applibras/)
+[GITHubPage](https://biularambo.github.io/jogoForcaLuca_Fabi/)
